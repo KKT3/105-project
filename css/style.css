@@ -5,11 +5,12 @@ section {
 section h1,
 section p {
 	text-align: center;
-	color: #d2e17a;
+	color: #d2e877;
 }
 section h1 {
 	font: 32px 'Open Sans';
 	font-weight: bold;
+	color: #d2e17a;
 }
 section p {
 	font: 16px 'Open Sans';
